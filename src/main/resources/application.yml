@@ -3,7 +3,7 @@ spring:
     name: Diary_Server
 
   datasource:
-    url: jdbc:mysql://likelion-database.cluwsicaobn4.ap-northeast-2.rds.amazonaws.com:3306/likelion?useSSL=false&serverTimezone=UTC
+    url: jdbc:mysql://likelion-database.cluwsicaobn4.ap-northeast-2.rds.amazonaws.com:3306/diary?useSSL=false&serverTimezone=UTC
     username: likelion
     password: '1q2w3e4r'
 
